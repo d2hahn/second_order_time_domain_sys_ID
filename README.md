@@ -2,7 +2,7 @@
 
 
 ## Summary
-Python and MATLAB codebase for performing second-order system identification from time-domain data of a decreasing step response. Both discrete and continuous time estimation methods are available. Uncertainties given at the 95% confidence level. Code was originally developed to characterize dynamics of pressure sensor apparatuses through decreasing step response testing.
+Python and MATLAB codebase for performing second-order system identification from time-domain data of a systems dynamic response to a decreasing step input function. Both discrete and continuous time estimation methods are available. Uncertainties given at the 95% confidence level. Code was originally developed to characterize dynamics of pressure sensor apparatuses through decreasing step response testing.
 
 ## Dependencies
 ### Python
